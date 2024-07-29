@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/google-gemini-php/client" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/composer" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/gemini-api-php/client" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/PHPAIAgent/vendor/ralouphie/getallheaders" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

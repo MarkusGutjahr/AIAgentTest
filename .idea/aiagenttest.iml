@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/gemini-api-php/client" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/google-gemini-php/client" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/php-http/discovery" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/PHPAIAgent/vendor/vlucas/phpdotenv" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
